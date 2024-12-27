@@ -1,4 +1,4 @@
-# DGNet: Enhancing Parallel CTR Prediction Models via Decoupled Gated Network
+# The code of DGNet
 ## The structure of DGNet. 
 ![image](./images/DENet.jpg)
 The structure of DGNet with DCNv2 as the backbone model. DGNet contains two core components: the decoupled embedding generator (DEG) and the gate fusion network (GateF).  
